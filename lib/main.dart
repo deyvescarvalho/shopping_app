@@ -134,6 +134,7 @@ class _MyHomeState extends State<MyHome> {
       floatingActionButton: FloatingActionButton(
         onPressed: () {
           _resetarCampos();
+          //teste
         },
         backgroundColor: Colors.green,
         child: Icon(Icons.refresh),
